@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **Brubsy/Brubsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 My name is Bruna. I am currently a Master's student in the Biophysics program at the Federal University of Rio de Janeiro. 
+- 🌱 I am learning Web Development because I am considering changing my career. 😊 
+- ⚡ Fun fact: I used to not like the ideia of learning Front-End Web Development, but I am having a lot of fun doing it. 😁
