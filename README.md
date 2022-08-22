@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 My name is Bruna. I am currently a Master's student in the Biophysics program at the Federal University of Rio de Janeiro. 
-- 🌱 I am learning Web Development because I am considering changing my career. 😊 
-- ⚡ Fun fact: I used to not like the ideia of learning Front-End Web Development, but I am having a lot of fun doing it. 😁
+- 🌱 I learned a little bit of Web Development because I was considering changing my career to this field. Now I seek to switch into Data Science because of my scientific background. 😊 
+- ⚡ Fun fact: I used to not like the ideia of learning Front-End Web Development, but I had a lot of fun doing it. 😁
