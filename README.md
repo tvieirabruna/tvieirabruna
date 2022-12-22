@@ -38,7 +38,7 @@ Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e formada em
 
 ## Stats
 
-![Brubsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=brubsy&show_icons=true&theme=tokyonight)
+![Brubsy's GitHub stats](https://github-readme-stats.vercel.app/api?username=brubsy&show_icons=true&theme=tokyonight&card_width=400)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brubsy&layout=compact&theme=tokyonight" height="195">
 
 
