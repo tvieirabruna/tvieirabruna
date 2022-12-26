@@ -42,11 +42,27 @@ Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e formada em
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brubsy&layout=compact&theme=tokyonight" height="195">
 -->
 
-<div class='container' flex-direction='row' align='center';>
+<!-- 
+<div class='container' align='center';>
 <img src="https://github-readme-stats.vercel.app/api?username=brubsy&show_icons=true&theme=tokyonight&card_width=400" />
 &nbsp;
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brubsy&layout=compact&theme=tokyonight" height="195"/></div>
+</div>
+-->
+
+<!--<div flex-direction='row'>
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=brubsy&show_icons=true&theme=tokyonight" /></div>
+&nbsp;
+&nbsp;
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brubsy&layout=compact&theme=tokyonight" /></div>
+</div> -->
+
+<div class='container'>
+<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=brubsy&show_icons=true&theme=tokyonight" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brubsy&layout=compact&theme=tokyonight" /></div>
 </div>
 
 
