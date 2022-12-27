@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Olá! 😄 Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e formada em Nanotecnologia pela Universidade Federal do Rio de Janeiro (UFRJ). Estou em busca da transição de carreira para a área de tecnologia.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tvieirabruna/"><img style="height: auto; width: 30px;" class="img" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+<a href="https://www.linkedin.com/in/tvieirabruna/"><img style="height: auto; width: auto;" class="img" src="https://img.shields.io/badge/tvieirabruna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 #### 🌟 Curiosidades: 
