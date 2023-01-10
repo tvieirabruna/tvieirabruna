@@ -32,6 +32,9 @@ Olá! 😄 Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e
 
  - ### Visualização de Dados
     - [Power BI](https://github.com/Brubsy/dashboards-powerbi)
+ 
+ - ### Python
+    - [Automação de Processos](https://github.com/Brubsy/Automa-o-de-Processos)
 
  - ### Java
     - [Aplicativo To-Do](https://github.com/Brubsy/todo-app)
