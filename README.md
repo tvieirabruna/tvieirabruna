@@ -35,6 +35,7 @@ Olá! 😄 Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e
  
  - ### Python
     - [Automação de Processos](https://github.com/Brubsy/Automa-o-de-Processos)
+    - [Análise de dados](https://github.com/Brubsy/analise-de-dados)
 
  - ### Java
     - [Aplicativo To-Do](https://github.com/Brubsy/todo-app)
@@ -50,9 +51,9 @@ Olá! 😄 Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e
 ## 📊 GitHub Stats
 
 <div class='container' flex-direction ='row' align='center';>
-<img style="height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=brubsy&show_icons=true&theme=tokyonight&border_color=638fda" />
+<img style="height: auto; width: 52%;" class="img" src="https://github-readme-stats.vercel.app/api?username=brubsy&show_icons=true&theme=tokyonight&border_color=638fda" />
 &nbsp;
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brubsy&layout=compact&theme=tokyonight&border_color=638fda" /></div>
+<img style="height: auto; width: 43%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brubsy&layout=compact&theme=tokyonight&border_color=638fda" /></div>
 </div>
 
 
