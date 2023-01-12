@@ -35,7 +35,8 @@ Olá! 😄 Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e
  
  - ### Python
     - [Automação de Processos](https://github.com/Brubsy/Automa-o-de-Processos)
-    - [Análise de dados](https://github.com/Brubsy/analise-de-dados)
+    - [Análise de Dados](https://github.com/Brubsy/analise-de-dados)
+    - [Automação Web](https://github.com/Brubsy/web-scraping)
 
  - ### Java
     - [Aplicativo To-Do](https://github.com/Brubsy/todo-app)
