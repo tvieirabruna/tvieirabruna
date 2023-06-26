@@ -13,40 +13,48 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-Olá! 😄 Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e formada em Nanotecnologia pela Universidade Federal do Rio de Janeiro (UFRJ). Estou em busca da transição de carreira para a área de tecnologia.
+
+Hello! 😄 Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e formada em Nanotecnologia pela Universidade Federal do Rio de Janeiro (UFRJ). Estou em busca da transição de carreira para a área de tecnologia. -->
+
+Hello! 😄 My name is Bruna, and I hold a master's degree in Biological Sciences (Biophysics) and a degree in Nanotechnology from the Federal University of Rio de Janeiro (UFRJ). Currently, I am a Pre-Doctoral Intern at the Bernstein Center for Computational Neuroscience Berlin, where my research focuses on computational modeling of gaze behavior.
+
+🌟 Some Interesting Facts About Me:
+💻 During my undergraduate studies, I was a programmer for UFRJ's robotics competition team, MinervaBots.
+🎲 In my free time, I enjoy playing tabletop role-playing games, specifically Dungeons & Dragons.
+☯️ I am also a Kung Fu athlete and have competed at both the state and national levels in Brazil.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tvieirabruna/"><img style="height: auto; width: auto;" class="img" src="https://img.shields.io/badge/tvieirabruna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<!--
 #### 🌟 Curiosidades: 
 
 - :computer: Durante a graduação, fui programadora da equipe de competição de robótica da UFRJ, a MinervaBots.
 - :game_die: Jogo RPG, mais especificamente, D&D.
 - :yin_yang: Sou atleta de Kung Fu.
-<br>
+<br> -->
 
-## 📁 Repositórios
+## 📁 Repositories
 
- - ### Visualização de Dados
+ - ### Data Visualization
     - [Power BI](https://github.com/Brubsy/dashboards-powerbi)
  
  - ### Python
-    - [Automação de Processos](https://github.com/Brubsy/Automa-o-de-Processos)
-    - [Análise de Dados](https://github.com/Brubsy/analise-de-dados)
-    - [Automação Web](https://github.com/Brubsy/web-scraping)
-    - [Previsão de Vendas](https://github.com/Brubsy/previsao-de-vendas)
+    - [Process Automation](https://github.com/Brubsy/Automa-o-de-Processos)
+    - [Data Analysis](https://github.com/Brubsy/analise-de-dados)
+    - [Web Automation](https://github.com/Brubsy/web-scraping)
+    - [Sales Forecasting](https://github.com/Brubsy/previsao-de-vendas)
 
  - ### Java
-    - [Aplicativo To-Do](https://github.com/Brubsy/todo-app)
-    - [Calculadora de Média Aritmética e Harmônica](https://github.com/Brubsy/CodingTank_Sinqia)
+    - [To-Do App](https://github.com/Brubsy/todo-app)
+    - [Arithmetic and Harmonic Mean Calculator](https://github.com/Brubsy/CodingTank_Sinqia)
  
- - ### Desenvolvimento Front-End
-    - [Jogo da memória](https://github.com/Brubsy/Projeto_04_parrotsCardGame)
-    - [Aplicativo de Food delivery](https://github.com/Brubsy/projeto3-driveneats)
-    - [Layout estático do Instagram](https://github.com/Brubsy/projeto2-instagram)
+ - ### Front-End Development
+    - [Memory Game](https://github.com/Brubsy/Projeto_04_parrotsCardGame)
+    - [Food order App](https://github.com/Brubsy/projeto3-driveneats)
+    - [Instagram Static Layout](https://github.com/Brubsy/projeto2-instagram)
 
 <br>
 
