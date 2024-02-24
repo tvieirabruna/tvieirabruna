@@ -46,6 +46,9 @@ Hello! 😄 My name is Bruna, and I hold a master's degree in Biological Science
     - [Data Analysis](https://github.com/tvieirabruna/analise-de-dados)
     - [Web Automation](https://github.com/tvieirabruna/web-scraping)
     - [Sales Forecasting](https://github.com/tvieirabruna/previsao-de-vendas)
+  
+ - ### FullStack + DevOps
+    - [Website de Agendamento inicializado no Docker](https://github.com/tvieirabruna/website-agendamento-docker)
 
  - ### Java
     - [To-Do App](https://github.com/tvieirabruna/todo-app)
