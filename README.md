@@ -42,7 +42,7 @@ Hello! 😄 My name is Bruna, and I hold a master's degree in Biological Science
     - [Power BI](https://github.com/tvieirabruna/dashboards-powerbi)
  
  - ### Python
-    - [Process Automation](https://github.com/tvieirabruna/Automa-o-de-Processos)
+    - [Process Automation](https://github.com/tvieirabruna/automacao-de-processos)
     - [Data Analysis](https://github.com/tvieirabruna/analise-de-dados)
     - [Web Automation](https://github.com/tvieirabruna/web-scraping)
     - [Sales Forecasting](https://github.com/tvieirabruna/previsao-de-vendas)
