@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello! 😄 Eu me chamo Bruna. Sou mestre em Ciências Biológicas (Biofísica) e formada em Nanotecnologia pela Universidade Federal do Rio de Janeiro (UFRJ). Estou em busca da transição de carreira para a área de tecnologia. -->
 
-Hello! 😄 My name is Bruna, and I hold a master's degree in Biological Sciences (Biophysics) and a degree in Nanotechnology from the Federal University of Rio de Janeiro (UFRJ). I also worked as a Pre-Doctoral Intern at the Bernstein Center for Computational Neuroscience Berlin, where my research focused on computational modeling of gaze behavior. Currently, I'm a DevOps student at Ada Tech. I'm learning Linux, Git, Pipelines, Containers, and Cloud (AWS).
+Hello! 😄 My name is Bruna. I'm a Systems Analyst at Lab245, where I develop genAI applications using large language models. I hold a master's degree in Biological Sciences (Biophysics) and a degree in Nanotechnology from the Federal University of Rio de Janeiro (UFRJ). I also worked as a Pre-Doctoral Intern at the Bernstein Center for Computational Neuroscience Berlin, where my research focused on computational modeling of gaze behavior. Currently, I'm a DevOps student at Ada Tech. I'm learning Linux, Git, Pipelines, Containers, and Cloud (AWS).
 
 🌟 Some Interesting Facts About Me:
 - 💻 During my undergraduate studies, I was a programmer for UFRJ's robotics competition team, MinervaBots.
