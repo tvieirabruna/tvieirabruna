@@ -48,9 +48,6 @@ Hello! 😄 My name is Bruna. I'm a Junior AI Engineer at Teachy Education, wher
       
  - ### Data Visualization
     - [Power BI](https://github.com/tvieirabruna/dashboards-powerbi)
-  
- - ### FullStack + DevOps
-    - [Website de Agendamento com deploy no Docker](https://github.com/tvieirabruna/website-agendamento-docker)
  
  - ### Front-End Development
     - [Memory Game](https://github.com/tvieirabruna/Projeto_04_parrotsCardGame)
