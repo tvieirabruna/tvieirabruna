@@ -51,10 +51,6 @@ Hello! 😄 My name is Bruna. I'm a Junior AI Engineer at Teachy Education, wher
   
  - ### FullStack + DevOps
     - [Website de Agendamento com deploy no Docker](https://github.com/tvieirabruna/website-agendamento-docker)
-
- - ### Java
-    - [To-Do App](https://github.com/tvieirabruna/todo-app)
-    - [Arithmetic and Harmonic Mean Calculator](https://github.com/tvieirabruna/CodingTank_Sinqia)
  
  - ### Front-End Development
     - [Memory Game](https://github.com/tvieirabruna/Projeto_04_parrotsCardGame)
