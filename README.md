@@ -37,6 +37,8 @@ Hello! 😄 My name is Bruna. I'm a Junior AI Engineer at Teachy Education, wher
 <br> -->
 
 ## 📁 Repositories
+ - ### Artificial Intelligence
+    - [RAG-based Chatbot](https://github.com/tvieirabruna/pdf-rag-chatbot)
 
  - ### Data Visualization
     - [Power BI](https://github.com/tvieirabruna/dashboards-powerbi)
