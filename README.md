@@ -37,17 +37,17 @@ Hello! 😄 My name is Bruna. I'm a Junior AI Engineer at Teachy Education, wher
 <br> -->
 
 ## 📁 Repositories
- - ### Artificial Intelligence
-    - [RAG-based Chatbot](https://github.com/tvieirabruna/pdf-rag-chatbot)
+- ### Python
+    - [RAG-based Chatbot](https://github.com/tvieirabruna/pdf-rag-chatbot) 
+    - [Process Automation](https://github.com/tvieirabruna/automacao-de-processos)
+    - [Web Automation](https://github.com/tvieirabruna/web-scraping)
 
+ - ### Data Analysis
+    - [Telecommunication Data](https://github.com/tvieirabruna/analise-de-dados)
+    - [Sales Forecasting](https://github.com/tvieirabruna/previsao-de-vendas)
+      
  - ### Data Visualization
     - [Power BI](https://github.com/tvieirabruna/dashboards-powerbi)
- 
- - ### Python
-    - [Process Automation](https://github.com/tvieirabruna/automacao-de-processos)
-    - [Data Analysis](https://github.com/tvieirabruna/analise-de-dados)
-    - [Web Automation](https://github.com/tvieirabruna/web-scraping)
-    - [Sales Forecasting](https://github.com/tvieirabruna/previsao-de-vendas)
   
  - ### FullStack + DevOps
     - [Website de Agendamento com deploy no Docker](https://github.com/tvieirabruna/website-agendamento-docker)
