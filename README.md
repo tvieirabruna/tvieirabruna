@@ -38,7 +38,8 @@ Hello! 😄 My name is Bruna. I'm a Junior AI Engineer at Teachy Education, wher
 
 ## 📁 Repositories
 - ### Python
-    - [RAG-based Chatbot](https://github.com/tvieirabruna/pdf-rag-chatbot) 
+    - [RAG-based Chatbot](https://github.com/tvieirabruna/pdf-rag-chatbot)
+    - [Weather Forecast & Math Calculator Agent](https://github.com/tvieirabruna/meteomath-agent)
     - [Process Automation](https://github.com/tvieirabruna/automacao-de-processos)
     - [Web Automation](https://github.com/tvieirabruna/web-scraping)
 
